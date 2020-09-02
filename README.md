@@ -1,8 +1,11 @@
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=RohitDhankar&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDhankar)](https://github.com/RohitDhankar/github-readme-stats)
+
 
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDhankar)](https://github.com/RohitDhankar/github-readme-stats)
+
 **RohitDhankar/RohitDhankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
